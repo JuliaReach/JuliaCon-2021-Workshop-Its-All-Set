@@ -1,9 +1,5 @@
 ## It's all Set: A hands-on introduction to JuliaReach
 
-<img src="https://github.com/JuliaReach/JuliaCon-2021-Workshop-Its-All-Set/blob/main/logo.png?raw=true" alt="" width="200">
-
-[Homepage](https://juliareach.github.io/)
-
 ## Abstract
 
 JuliaReach is among the best-of-breed software addressing the fundamental problem of reachability analysis: computing the set of states that are reachable by a dynamical system from all initial states and for all admissible inputs and parameters. We explain the role of Julia's multiple dispatch to gain an unprecedented level of flexibility and expressiveness in this area. We explore diverse applications including differential equations, hybrid systems and neural network controlled systems.
