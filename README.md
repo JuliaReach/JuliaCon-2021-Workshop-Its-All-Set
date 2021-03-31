@@ -2,7 +2,8 @@
 
 - It's all Set: A hands-on introduction to JuliaReach
 
-![logo.png](logo.png)
+<img src="https://github.com/JuliaReach/JuliaCon-2021-Workshop-Its-All-Set/blob/main/logo.png?raw=true" alt="" width="200">
+
 
 ### Abstract
 
