@@ -2,7 +2,7 @@
 
 <img src="https://github.com/JuliaReach/JuliaCon-2021-Workshop-Its-All-Set/blob/main/logo.png?raw=true" alt="" width="200">
 
-[JuliaReach.com](https://juliareach.github.io/)
+[Homepage](https://juliareach.github.io/)
 
 ## Abstract
 
