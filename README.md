@@ -18,9 +18,7 @@ In the second part we present [ReachabilityAnalysis.jl](https://github.com/Julia
 
 In the third part we present [NeuralNetworkAnalysis.jl](https://github.com/JuliaReach/NeuralNetworkAnalysis.jl), which is an application of [ReachabilityAnalysis.jl](https://github.com/JuliaReach/ReachabilityAnalysis.jl) to analyze dynamical systems that are controlled by neural networks. This package can be used to validate or invalidate specifications, for instance about the safety of such systems.
 
----
-
-Meet the team of researchers and students that form the [JuliaReach](https://juliareach.com) network:
+### Meet the team of researchers and students that form the [JuliaReach](https://juliareach.com) network:
 
 - [Luis Benet](https://github.com/lbenet). Universidad Nacional Autónoma de México. *Validated integration, Nonlinear Physics.* He is also one of the lead developers of [JuliaIntervals](https://github.com/JuliaIntervals).
 
