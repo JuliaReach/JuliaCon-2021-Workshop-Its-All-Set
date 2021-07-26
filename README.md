@@ -26,6 +26,8 @@ In the third part we present [NeuralNetworkAnalysis.jl](https://github.com/Julia
 
 - [Daniel Freire Caporale](https://github.com/dfcaporale). Universidad de la República, Uruguay. *Reachability, PDEs, Fluid Mechanics.*
 
+- [Ander Gray](https://github.com/anderGray/). University of Liverpool, UK. *Probability bounds analysis. Uncertainty quantification.*
+
 - [Sebastian Guadalupe](https://github.com/sebastianguadalupe). Universidad de la República, Uruguay. *Julia Seasons of Contributions 2020 Alumni. Mathematical Modeling, Hybrid systems.*
 
 - [Uziel Linares](https://github.com/uziellinares). Universidad Nacional Autónoma de México. *Google Summer of Code 2020 Alumni. Nonlinear reachability, Taylor models.*
