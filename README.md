@@ -1,6 +1,6 @@
 ## It's all Set: A hands-on introduction to JuliaReach
 
-Workshop proposal for JuliaCon 2021.
+Watch our workshop at JuliaCon 2021: https://www.youtube.com/watch?v=P4I7pTvQ4nk
 
 ## Abstract
 
